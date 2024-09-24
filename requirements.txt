@@ -1,0 +1,6 @@
+numpy<2.0
+--find-links https://storage.googleapis.com/jax-releases/jax_cuda_releases.html
+jax[cuda12_local]
+flax
+keras
+nvidia-cudnn-cu12
