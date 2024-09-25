@@ -22,6 +22,19 @@ sudo apt-get update
 sudo apt-get -y install cudnn
 ```
 
+# Appropriate Python version with [`pyenv`](https://github.com/pyenv/pyenv)
+KerasNLP and some Tensorflow libraries **only** support Python 3.9.
+```shell
+pyenv install 3.9
+pyenv global 3.9
+python -m venv .venv
+```
+
+Install all dependencies
+```shell
+.venv/bin/pip install -r ./requirements.txt
+```
+
 # Verifying installation
 ## A simple way to check CUDA and cuDNN with Python using JAX
 ```python

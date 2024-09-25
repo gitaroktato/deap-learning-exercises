@@ -3,4 +3,6 @@ numpy<2.0
 jax[cuda12_local]
 flax
 keras
-nvidia-cudnn-cu12
+keras-nlp
+# Probably not required
+# nvidia-cudnn-cu12
