@@ -4,5 +4,6 @@ jax[cuda12_local]
 flax
 keras
 keras-nlp
+tensorflow-datasets
 # Probably not required
 # nvidia-cudnn-cu12
