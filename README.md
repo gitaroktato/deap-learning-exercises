@@ -136,3 +136,6 @@ https://www.kaggle.com/models/google/gemma?postConsentAction=explore
 # Speeding things up
 https://www.reddit.com/r/LocalLLaMA/comments/1b0kht9/gemma_finetuning_243_faster_uses_58_less_vram/
 https://colab.research.google.com/drive/1vIrqH5uYDQwsJ4-OO3DErvuv4pBgVwk4?usp=sharing#scrollTo=QmUBVEnvCDJv
+
+## TensorRT
+https://docs.nvidia.com/deeplearning/tensorrt/archives/index.html#trt_7
