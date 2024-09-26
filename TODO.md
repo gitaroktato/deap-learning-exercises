@@ -8,3 +8,6 @@ https://keras.io/getting_started/
 
 Try with chinese - similar
 https://keras.io/examples/generative/gpt2_text_generation_with_kerasnlp/
+
+Mini GPT
+https://keras.io/examples/generative/text_generation_with_miniature_gpt/

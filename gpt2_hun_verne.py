@@ -26,9 +26,9 @@ def main():
         .batch(BATCH_SIZE)
         .shuffle(buffer_size=256)
     )
-    raw_train_ds = raw_train_ds.take(500)
-    for text in raw_train_ds:
-        print(text)
+    # raw_train_ds = raw_train_ds.take(500)
+    # for text in raw_train_ds:
+    #     print(text)
 
     num_epochs = 5
 
