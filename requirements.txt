@@ -1,6 +1,10 @@
 numpy<2.0
 --find-links https://storage.googleapis.com/jax-releases/jax_cuda_releases.html
 jax[cuda12_local]
+tensorflow[and-cuda]
 flax
 keras
-nvidia-cudnn-cu12
+keras-nlp
+tensorflow-datasets
+# Probably not required
+# nvidia-cudnn-cu12

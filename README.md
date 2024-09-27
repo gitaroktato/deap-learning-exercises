@@ -22,6 +22,19 @@ sudo apt-get update
 sudo apt-get -y install cudnn
 ```
 
+# Appropriate Python version with [`pyenv`](https://github.com/pyenv/pyenv)
+KerasNLP and some Tensorflow libraries **only** support Python 3.9.
+```shell
+pyenv install 3.9
+pyenv global 3.9
+python -m venv .venv
+```
+
+Install all dependencies
+```shell
+.venv/bin/pip install -r ./requirements.txt
+```
+
 # Verifying installation
 ## A simple way to check CUDA and cuDNN with Python using JAX
 ```python
@@ -106,3 +119,29 @@ CUDA container toolkit
 
 Docker GPU support
 - https://docs.docker.com/desktop/gpu/
+
+# Papers and Trainings
+- https://www.techbooky.com/wp-content/uploads/2019/02/Better-Language-Models-and-Their-Implications.pdf
+- https://arxiv.org/pdf/1706.03762
+- https://stanford-cs324.github.io/winter2022/lectures/introduction/
+- https://jalammar.github.io/illustrated-gpt2/
+- https://jalammar.github.io/feedforward-neural-networks-visual-interactive/#sigmoid-visualization
+- https://cloud.google.com/tpu/docs/intro-to-tpu
+- https://nlp.stanford.edu/projects/glove/
+- Special tokens: https://medium.com/@alexkubiesa/special-tokens-in-tensorflow-3c7718dcb0ef
+- Hugging Face course: https://huggingface.co/learn/nlp-course/chapter1/1
+- Hugging Face tokenziers: https://github.com/huggingface/tokenizers
+
+
+
+# Code Gemma
+## Getting credentials
+Visit the model at Kaggle.com and accept terms & conditions
+https://www.kaggle.com/models/google/gemma?postConsentAction=explore
+
+# Speeding things up
+https://www.reddit.com/r/LocalLLaMA/comments/1b0kht9/gemma_finetuning_243_faster_uses_58_less_vram/
+https://colab.research.google.com/drive/1vIrqH5uYDQwsJ4-OO3DErvuv4pBgVwk4?usp=sharing#scrollTo=QmUBVEnvCDJv
+
+## TensorRT
+https://docs.nvidia.com/deeplearning/tensorrt/archives/index.html#trt_7
