@@ -132,6 +132,8 @@ Docker GPU support
 - Hugging Face course: https://huggingface.co/learn/nlp-course/chapter1/1
 - Hugging Face tokenziers: https://github.com/huggingface/tokenizers
 - RNN with description and tutorial: https://www.tensorflow.org/text/tutorials/text_generation
+- RNN Guide: https://karpathy.github.io/2015/05/21/rnn-effectiveness/
+- Paper (LSTMs single/multi-layered): https://pdf.sciencedirectassets.com/280203/1-s2.0-S1877050918X0012X/1-s2.0-S187705091831439X/main.pdf
 
 
 
