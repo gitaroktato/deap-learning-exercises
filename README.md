@@ -124,16 +124,17 @@ Docker GPU support
 - https://www.techbooky.com/wp-content/uploads/2019/02/Better-Language-Models-and-Their-Implications.pdf
 - https://arxiv.org/pdf/1706.03762
 - https://stanford-cs324.github.io/winter2022/lectures/introduction/
-- https://jalammar.github.io/illustrated-gpt2/
-- https://jalammar.github.io/feedforward-neural-networks-visual-interactive/#sigmoid-visualization
-- https://cloud.google.com/tpu/docs/intro-to-tpu
+- [The Illustrated GPT2](https://jalammar.github.io/illustrated-gpt2/)
+- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+- [Sigmoid Visualization](https://jalammar.github.io/feedforward-neural-networks-visual-interactive/#sigmoid-visualization)
+- [Google Cloud - intro to TPU](https://cloud.google.com/tpu/docs/intro-to-tpu)
 - https://nlp.stanford.edu/projects/glove/
-- Special tokens: https://medium.com/@alexkubiesa/special-tokens-in-tensorflow-3c7718dcb0ef
-- Hugging Face course: https://huggingface.co/learn/nlp-course/chapter1/1
-- Hugging Face tokenziers: https://github.com/huggingface/tokenizers
-- RNN with description and tutorial: https://www.tensorflow.org/text/tutorials/text_generation
-- RNN Guide: https://karpathy.github.io/2015/05/21/rnn-effectiveness/
-- Paper (LSTMs single/multi-layered): https://pdf.sciencedirectassets.com/280203/1-s2.0-S1877050918X0012X/1-s2.0-S187705091831439X/main.pdf
+- [Special tokens](https://medium.com/@alexkubiesa/special-tokens-in-tensorflow-3c7718dcb0ef)
+- [Hugging Face Course](https://huggingface.co/learn/nlp-course/chapter1/1)
+- [Hugging Face tokenizers](https://github.com/huggingface/tokenizers)
+- [RNN with description and tutorial](https://www.tensorflow.org/text/tutorials/text_generation)
+- [RNN Guide](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+- [Paper (LSTMs single/multi-layered)](https://pdf.sciencedirectassets.com/280203/1-s2.0-S1877050918X0012X/1-s2.0-S187705091831439X/main.pdf)
 
 
 
