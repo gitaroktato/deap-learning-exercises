@@ -131,6 +131,7 @@ Docker GPU support
 - Special tokens: https://medium.com/@alexkubiesa/special-tokens-in-tensorflow-3c7718dcb0ef
 - Hugging Face course: https://huggingface.co/learn/nlp-course/chapter1/1
 - Hugging Face tokenziers: https://github.com/huggingface/tokenizers
+- RNN with description and tutorial: https://www.tensorflow.org/text/tutorials/text_generation
 
 
 
