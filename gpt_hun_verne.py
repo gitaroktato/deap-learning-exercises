@@ -90,7 +90,7 @@ class TokenAndPositionEmbedding(layers.Layer):
 """
 ## Implement the miniature GPT model
 """
-vocab_size = 20000  # Only consider the top 20k words
+vocab_size = 25000  # Only consider the top 20k words
 maxlen = 80  # Max sequence size
 embed_dim = 256  # Embedding size for each token
 num_heads = 2  # Number of attention heads
@@ -221,9 +221,9 @@ word_to_index = {}
 for index, word in enumerate(vocab):
     word_to_index[word] = index
 
-start_prompt = "Az ágyú és a lövedék a Holdat"
+start_prompt = "Az ágyú és a lövedék"
 start_tokens = [word_to_index.get(_, 1) for _ in start_prompt.split()]
-num_tokens_generated = 40
+num_tokens_generated = 200
 text_gen_callback = TextGenerator(num_tokens_generated, start_tokens, vocab)
 
 
@@ -234,5 +234,4 @@ Note: This code should preferably be run on GPU.
 """
 
 model = create_model()
-
 model.fit(text_ds, verbose=2, epochs=25, callbacks=[text_gen_callback])

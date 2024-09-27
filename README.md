@@ -128,6 +128,11 @@ Docker GPU support
 - https://jalammar.github.io/feedforward-neural-networks-visual-interactive/#sigmoid-visualization
 - https://cloud.google.com/tpu/docs/intro-to-tpu
 - https://nlp.stanford.edu/projects/glove/
+- Special tokens: https://medium.com/@alexkubiesa/special-tokens-in-tensorflow-3c7718dcb0ef
+- Hugging Face course: https://huggingface.co/learn/nlp-course/chapter1/1
+- Hugging Face tokenziers: https://github.com/huggingface/tokenizers
+
+
 
 # Code Gemma
 ## Getting credentials

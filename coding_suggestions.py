@@ -1,6 +1,6 @@
 import os
 
-os.environ["KERAS_BACKEND"] = "jax"  # or "tensorflow" or "torch"
+os.environ["KERAS_BACKEND"] = "tensorflow"  # or "tensorflow" or "torch"
 
 # Note: `userdata.get` is a Colab API. If you're not using Colab, set the env
 # vars as appropriate for your system.
