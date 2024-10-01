@@ -8,3 +8,4 @@ keras-nlp
 tensorflow-datasets
 # Probably not required
 # nvidia-cudnn-cu12
+jupyter
