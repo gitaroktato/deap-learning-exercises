@@ -133,10 +133,11 @@ Docker GPU support
 - [Hugging Face Course](https://huggingface.co/learn/nlp-course/chapter1/1)
 - [Hugging Face tokenizers](https://github.com/huggingface/tokenizers)
 - [RNN with description and tutorial](https://www.tensorflow.org/text/tutorials/text_generation)
+- [How to fix the tutorial above?](https://github.com/tensorflow/text/issues/1268)
+- [Another RNN](https://github.com/trekhleb/machine-learning-experiments/blob/master/experiments/text_generation_shakespeare_rnn/text_generation_shakespeare_rnn.ipynb)
 - [RNN Guide](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 - [Paper (LSTMs single/multi-layered)](https://pdf.sciencedirectassets.com/280203/1-s2.0-S1877050918X0012X/1-s2.0-S187705091831439X/main.pdf)
-
-
+- [Backpropagation](https://www.youtube.com/watch?v=Ilg3gGewQ5U)
 
 # Code Gemma
 ## Getting credentials
@@ -149,3 +150,7 @@ https://colab.research.google.com/drive/1vIrqH5uYDQwsJ4-OO3DErvuv4pBgVwk4?usp=sh
 
 ## TensorRT
 https://docs.nvidia.com/deeplearning/tensorrt/archives/index.html#trt_7
+
+
+# Google CoLab
+- [Debugging](https://zohaib.me/debugging-in-google-collab-notebook/)
