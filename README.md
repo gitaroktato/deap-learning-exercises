@@ -154,3 +154,6 @@ https://docs.nvidia.com/deeplearning/tensorrt/archives/index.html#trt_7
 
 # Google CoLab
 - [Debugging](https://zohaib.me/debugging-in-google-collab-notebook/)
+
+# Tools
+- [What a good UI!](https://trekhleb.dev/machine-learning-experiments/#/experiments/TextGenerationShakespeareRNN)
