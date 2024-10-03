@@ -136,6 +136,7 @@ Docker GPU support
 - [How to fix the tutorial above?](https://github.com/tensorflow/text/issues/1268)
 - [Another RNN](https://github.com/trekhleb/machine-learning-experiments/blob/master/experiments/text_generation_shakespeare_rnn/text_generation_shakespeare_rnn.ipynb)
 - [RNN Guide](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+- [Tensorflow Keras RNN guide](https://www.tensorflow.org/guide/keras/working_with_rnns#introduction)
 - [Paper (LSTMs single/multi-layered)](https://pdf.sciencedirectassets.com/280203/1-s2.0-S1877050918X0012X/1-s2.0-S187705091831439X/main.pdf)
 - [Backpropagation](https://www.youtube.com/watch?v=Ilg3gGewQ5U)
 - [Softmax](https://www.singlestore.com/blog/a-guide-to-softmax-activation-function/)
@@ -155,3 +156,6 @@ https://docs.nvidia.com/deeplearning/tensorrt/archives/index.html#trt_7
 
 # Google CoLab
 - [Debugging](https://zohaib.me/debugging-in-google-collab-notebook/)
+
+# Tools
+- [What a good UI!](https://trekhleb.dev/machine-learning-experiments/#/experiments/TextGenerationShakespeareRNN)
