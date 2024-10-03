@@ -2,3 +2,4 @@
 .venv
 *.keras
 .ipynb_checkpoints
+*.h5
