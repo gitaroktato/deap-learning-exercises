@@ -141,6 +141,11 @@ Docker GPU support
 - [Backpropagation](https://www.youtube.com/watch?v=Ilg3gGewQ5U)
 - [Softmax](https://www.singlestore.com/blog/a-guide-to-softmax-activation-function/)
 
+## Classification
+- [BERT](https://www.tensorflow.org/text/tutorials/classify_text_with_bert)
+- [Keras from scratch with 1D convolutional](https://keras.io/examples/nlp/text_classification_from_scratch/)
+- [with RNN](https://www.tensorflow.org/text/tutorials/text_classification_rnn)
+
 # Code Gemma
 ## Getting credentials
 Visit the model at Kaggle.com and accept terms & conditions
